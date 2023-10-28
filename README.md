@@ -1,6 +1,6 @@
 # Flagship-Projects-Hub
 
-This is a comprehensive GitHub repository that serves as a central hub for managing and showcasing a few of the most significant and influential projects. This repository is a curated collection of flagship initiatives and ML & AI applications, consolidating them in one location for easy access, collaboration, and visibility.
+The "Flagship-Projects-Hub" is a comprehensive GitHub repository that serves as a central hub for managing and showcasing a few of the most significant and influential projects. This repository is a curated collection of flagship initiatives and ML & AI applications, consolidating them in one location for easy access, collaboration, and visibility.
 
 # Project 1. ANOVA-Test COVID-19 Case Study
 https://github.com/Praveen76/ANOVA-Test-COVID-19
