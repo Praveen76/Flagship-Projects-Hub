@@ -17,5 +17,8 @@ https://github.com/Praveen76/Building-chatbot-using-Nodejs
 # Project 5. Deploy Loan-Approval-Classifier on Azure cloud
 https://github.com/Praveen76/Deploy-Loan-Approval-Classifier-on-Azure-cloud
 
+# Project 6. Implementation of Market Mix Model Using Robyn
+https://www.analyticsvidhya.com/blog/2023/05/introduction-to-market-mix-model-using-robyn/
+
 # **About Me:**
 I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
