@@ -9,7 +9,7 @@ https://github.com/Praveen76/ANOVA-Test-COVID-19
 https://github.com/Praveen76/Face-mask-detector-using-RetinaNet-model
 
 # Project 3. LLMs-Projects basics to Advanced
-https://github.com/Praveen76/LLMs-Projects-Basics-to-Advanced
+https://github.com/Praveen76/LLM-Projects-Archive
 
 # Project 4. Images' web-scraping-using-Selenium-Python:
 https://github.com/Praveen76/Web-Scraping-using-Selenium-Python
