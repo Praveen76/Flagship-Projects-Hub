@@ -22,9 +22,10 @@ Explore the curated list of flagship projects below:
 2. [Build a WhatsApp-chatbot using Nodejs](https://github.com/Praveen76/Building-chatbot-using-Nodejs): Develop a chatbot for WhatsApp using Node.js, enhancing communication and interaction.
 3. [LLMs-Projects (Basics to Advanced)](https://github.com/Praveen76/LLM-Projects-Archive): A collection of projects ranging from basic to advanced levels, showcasing a variety of skills and concepts in the field of LLMs (Large Language Models).
 4. [Implementation of Market Mix Model Using Robyn](https://www.analyticsvidhya.com/blog/2023/05/introduction-to-market-mix-model-using-robyn/): Utilizes Robyn to implement a Market Mix Model, analyzing and optimizing marketing strategies.
-5. [Deploy Loan-Approval-Classifier on Azure cloud](https://github.com/Praveen76/Deploy-Loan-Approval-Classifier-on-Azure-cloud): Implements a machine learning model for loan approval classification and deploys it on the Azure cloud platform.
-6. [Images' web-scraping-using-Selenium-Python](https://github.com/Praveen76/Web-Scraping-using-Selenium-Python): Scrapes images from the web using Selenium and Python, facilitating data collection for various applications.
-7. [ANOVA-Test COVID-19 Case Study](https://github.com/Praveen76/ANOVA-Test-COVID-19): Conducts an Analysis of Variance (ANOVA) test as a case study to explore statistical differences in COVID-19 data, providing valuable insights.
+5. [Implementation of Market Mix Model Using XgBoost](https://github.com/Praveen76/Market-Mix-Model_using_XgBoost/tree/main): Utilizes XgBoost to implement a Market Mix Model, analyzing and optimizing marketing strategies.
+6. [Deploy Loan-Approval-Classifier on Azure cloud](https://github.com/Praveen76/Deploy-Loan-Approval-Classifier-on-Azure-cloud): Implements a machine learning model for loan approval classification and deploys it on the Azure cloud platform.
+7. [Images' web-scraping-using-Selenium-Python](https://github.com/Praveen76/Web-Scraping-using-Selenium-Python): Scrapes images from the web using Selenium and Python, facilitating data collection for various applications.
+8. [ANOVA-Test COVID-19 Case Study](https://github.com/Praveen76/ANOVA-Test-COVID-19): Conducts an Analysis of Variance (ANOVA) test as a case study to explore statistical differences in COVID-19 data, providing valuable insights.
    ...
 
 Feel free to add your own projects or suggest new ones by submitting a pull request.
